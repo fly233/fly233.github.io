@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fly233&#39;s Blog</title>
+    <link>http://fly233.github.io/post/</link>
+    <description>Recent content in Posts on Fly233&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>qiaowenyan2010@gmail.com (fly233)</managingEditor>
+    <webMaster>qiaowenyan2010@gmail.com (fly233)</webMaster>
+    <copyright>(c) 2016 fly233</copyright>
+    <lastBuildDate>Mon, 14 Mar 2016 18:08:46 +0800</lastBuildDate>
+    <atom:link href="http://fly233.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>一篇短文章</title>
+      <link>http://fly233.github.io/post/a-short-passage/</link>
+      <pubDate>Mon, 14 Mar 2016 18:08:46 +0800</pubDate>
+      <author>qiaowenyan2010@gmail.com (fly233)</author>
+      <guid>http://fly233.github.io/post/a-short-passage/</guid>
+      <description>&lt;p&gt;这是一篇短文章。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.
+└── content
+    ├── post
+    |   ├── post1.md
+    |   └── post2.md
+    ├── code
+    |   ├── project1.md
+    |   ├── project2.md
+    ├── license.md        // this is used in the sidebar footer link
+    └── other_page.md
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
